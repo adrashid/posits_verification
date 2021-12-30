@@ -1,1 +1,1 @@
-# posits_verification
+HOL Light code for the verification of posits
