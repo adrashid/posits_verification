@@ -1,1 +1,1 @@
-HOL Light code for the verification of posits
+HOL Light code and Technical Report for the verification of Universal Numbers
